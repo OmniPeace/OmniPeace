@@ -6,6 +6,15 @@ I'm a passionate full-stack developer with over 8 years of experience building f
 
 ## 🔧 Tech Stack
 
+### 🧠 Languages  
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
 ### 🖥️ Front-End  
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
@@ -64,6 +73,63 @@ I'm a passionate full-stack developer with over 8 years of experience building f
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+## 🚀 Featured Projects
+
+### [🏢 Nexys](https://www.nexys.com/)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Twilio](https://img.shields.io/badge/-Twilio-black?style=flat-square&logo=twilio)
+![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat-square&logo=hubspot)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)  
+Powerful all-in-one lending software platform streamlining loan origination, CRM, servicing, and analytics for private and commercial lenders.
+
+### [🏨 NextRes](https://www.nextres.com/)
+![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) 
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)    
+NextRes is a digital-first commercial real estate lending platform that provides fast, flexible financing—including bridge, fix‑and‑flip, and investment loans—with 24‑hour underwriting, personalized rate sheets, and streamlined draw requests to accelerate project funding.
+
+### [🏢 NextRes Commercial](https://commercial.nextres.com/)
+![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Plaid](https://img.shields.io/badge/-Plaid-black?style=flat-square&logo=plaid)
+![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)
+![Twilio](https://img.shields.io/badge/-Twilio-black?style=flat-square&logo=twilio)
+![DocuSign](https://img.shields.io/badge/-DocuSign-black?style=flat-square&logo=docusign)
+![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat-square&logo=hubspot)  
+NextRes Commercial is a no-nonsense, fully digital commercial real estate platform offering streamlined online loan applications—with same-day approvals, 24/7 support, and a flat $99/month pricing model.
+
+### [📊 FinResi](https://www.finresi.com/)
+![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Plaid](https://img.shields.io/badge/-Plaid-black?style=flat-square&logo=plaid)
+![Twilio](https://img.shields.io/badge/-Twilio-black?style=flat-square&logo=twilio)
+![DocuSign](https://img.shields.io/badge/-DocuSign-black?style=flat-square&logo=docusign)
+![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat-square&logo=hubspot) 
+![ActiveCampaign](https://img.shields.io/badge/-ActiveCampaign-black?style=flat-square&logo=activecampaign)  
+Finresi is a digital investment platform enabling accredited investors to passively invest in high-yield, real estate-backed bridge loans with transparent, managed-risk monthly returns.
+
+### [🏨 RTL Trader](https://rtltrader.com/)
+![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)  
+RTLTrader provides real-time interest rate and pricing insights for real estate deals by factoring in LTV limits, leverage adjustments, and prepayment penalties.
 
 ## 📈 GitHub Stats
 ![Ethereal's GitHub stats](https://github-readme-stats.vercel.app/api?username=etherealenigma&show_icons=true&theme=radical)
