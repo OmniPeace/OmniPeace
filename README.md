@@ -4,34 +4,66 @@
 
 I'm a passionate full-stack developer with over 8 years of experience building flexible, scalable web and blockchain applications. I specialize in crafting performant front-ends, robust back-end APIs, and integrating third-party services to build production-grade solutions.
 
-## 🔧 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-
----
-
 ## 🔧 Tech Stack
 
-**Front-End:**  
-React.js, Next.js, Vue.js, Nuxt.js, Svelte, Angular, HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap
+### 🖥️ Front-End  
+![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
+![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
-**Back-End:**  
-Node.js, Nest.js, Express.js, Python (Django, FastAPI), PHP (Laravel), GraphQL, RESTful APIs
+### 🧠 Back-End  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square&logo=api)
 
-**Database:**  
-PostgreSQL, MySQL, MongoDB, Firebase
+### 🗄️ Database  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
-**DevOps / Cloud:**  
-AWS (EC2, S3, RDS, Lambda), GCP, Docker, CI/CD Pipelines
+### ☁️ DevOps / Cloud  
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-black?style=flat-square&logo=github-actions)
 
-**Blockchain:**  
-Solidity, Smart Contracts, Web3.js, Ethers.js, Truffle, Remix, Hardhat, NFTs, DApps, DeFi
+### ⛓️ Blockchain  
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=flat-square&logo=web3.js)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-black?style=flat-square&logo=ethereum)
+![Truffle](https://img.shields.io/badge/-Truffle-black?style=flat-square&logo=truffle)
+![Remix](https://img.shields.io/badge/-Remix-black?style=flat-square&logo=remix)
+![Hardhat](https://img.shields.io/badge/-Hardhat-black?style=flat-square&logo=ethereum)
+![NFT](https://img.shields.io/badge/-NFT-black?style=flat-square&logo=nft)
+![DApp](https://img.shields.io/badge/-DApp-black?style=flat-square&logo=ethereum)
+![DeFi](https://img.shields.io/badge/-DeFi-black?style=flat-square&logo=ethereum)
 
-**Tools & Services:**  
-Plaid, Stripe, Twilio, DocuSign, HubSpot, ActiveCampaign, Postman, Swagger, GitHub, GitLab, Figma
-
----
+### 🧰 Tools & Services  
+![Plaid](https://img.shields.io/badge/-Plaid-black?style=flat-square&logo=plaid)
+![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)
+![Twilio](https://img.shields.io/badge/-Twilio-black?style=flat-square&logo=twilio)
+![DocuSign](https://img.shields.io/badge/-DocuSign-black?style=flat-square&logo=docusign)
+![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat-square&logo=hubspot)
+![ActiveCampaign](https://img.shields.io/badge/-ActiveCampaign-black?style=flat-square&logo=activecampaign)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ## 📈 GitHub Stats
 ![Ethereal's GitHub stats](https://github-readme-stats.vercel.app/api?username=etherealenigma&show_icons=true&theme=radical)
@@ -42,18 +74,12 @@ Plaid, Stripe, Twilio, DocuSign, HubSpot, ActiveCampaign, Postman, Swagger, GitH
 - ⚽ Football (both playing and following leagues)
 - 📖 Reading tech blogs and learning new frameworks
 - 💬 Collaborating on open-source and remote teams
-
----
-
+  
 ## 📫 Get in Touch
 
 - 📧 **Email:** james@codecharley.com  
 - 💼 **LinkedIn:** [linkedin.com/in/james-tong-22021a337](https://linkedin.com/in/james-tong-22021a337)  
-- 🧑‍💻 **GitHub:** [NightFury0109](https://github.com/NightFury0109)
-
-## 📫 How to reach me:
-- Email: you@example.com
-- Website: [yourdomain.com](https://yourdomain.com)
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourname)
+- 💬 **Discord:** [discordapp.com/users/awesome5756](https://discordapp.com/users/awesome5756)
+- 📱 **Telegram:** [t.me/OmniPeace](https://t.me/OmniPeace)  
 
 Thanks for stopping by! 🚀
