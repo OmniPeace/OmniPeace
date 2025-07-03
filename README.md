@@ -145,7 +145,7 @@ RTLTrader provides real-time interest rate and pricing insights for real estate 
 
 - 📧 **Email:** james@codecharley.com  
 - 💼 **LinkedIn:** [linkedin.com/in/james-tong-22021a337](https://linkedin.com/in/james-tong-22021a337)  
-- 💬 **Discord:** [discordapp.com/users/awesome5756](https://discordapp.com/users/omni_peace)
+- 💬 **Discord:** [discordapp.com/users/omni_peace](https://discordapp.com/users/omni_peace)
 - 📱 **Telegram:** [t.me/OmniPeace](https://t.me/OmniPeace)  
 
 Thanks for stopping by! 🚀
