@@ -131,8 +131,8 @@ Finresi is a digital investment platform enabling accredited investors to passiv
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)  
 RTLTrader provides real-time interest rate and pricing insights for real estate deals by factoring in LTV limits, leverage adjustments, and prepayment penalties.
 
-## 📈 GitHub Stats
-![Ethereal's GitHub stats](https://github-readme-stats.vercel.app/api?username=etherealenigma&show_icons=true&theme=radical)
+<!--  ## 📈 GitHub Stats
+![Ethereal's GitHub stats](https://github-readme-stats.vercel.app/api?username=etherealenigma&show_icons=true&theme=radical) -->
 
 ## 🎯 Interests
 
