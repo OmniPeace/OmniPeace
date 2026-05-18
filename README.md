@@ -141,10 +141,10 @@ RTLTrader provides real-time interest rate and pricing insights for real estate 
 - 📖 Reading tech blogs and learning new frameworks
 - 💬 Collaborating on open-source and remote teams
   
-## 📫 Get in Touch
+<!-- ## 📫 Get in Touch
 
 - 📧 **Email:** james@finresi.com  
-- 📱 **Telegram:** [t.me/OmniPeace](https://t.me/OmniPeace)
+- 📱 **Telegram:** [t.me/OmniPeace](https://t.me/OmniPeace) -->
 <!-- - 💼 **LinkedIn:** [linkedin.com/in/james-tong-22021a337](https://linkedin.com/in/james-tong-22021a337) 
 - 💬 **Discord:** [discordapp.com/users/omni_peace](https://discordapp.com/users/omni_peace) -->
 
