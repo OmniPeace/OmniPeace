@@ -2,7 +2,7 @@
 
 **Senior Software Engineer | Full Stack JS/TS Developer | Blockchain Enthusiast**
 
-I'm a passionate full-stack developer with over 8 years of experience building flexible, scalable web and blockchain applications. I specialize in crafting performant front-ends, robust back-end APIs, and integrating third-party services to build production-grade solutions.
+I'm a passionate full-stack developer with over 10 years of experience building flexible, scalable web and blockchain applications. I specialize in crafting performant front-ends, robust back-end APIs, and integrating third-party services to build production-grade solutions.
 
 ## 🔧 Tech Stack
 
