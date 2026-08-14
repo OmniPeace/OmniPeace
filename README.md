@@ -76,7 +76,7 @@ I'm a passionate full-stack developer with over 8 years of experience building f
 
 ## 🚀 Featured Projects
 
-### [🏢 Nexys](https://www.nexys.com/)
+### [🏢 Nexys, LLC](https://www.nexys.com/)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -87,7 +87,7 @@ I'm a passionate full-stack developer with over 8 years of experience building f
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)  
 Powerful all-in-one lending software platform streamlining loan origination, CRM, servicing, and analytics for private and commercial lenders.
 
-### [🏨 NextRes](https://www.nextres.com/)
+### [🏨 Nextres, LLC](https://www.nextres.com/)
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -96,7 +96,7 @@ Powerful all-in-one lending software platform streamlining loan origination, CRM
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)    
 NextRes is a digital-first commercial real estate lending platform that provides fast, flexible financing—including bridge, fix‑and‑flip, and investment loans—with 24‑hour underwriting, personalized rate sheets, and streamlined draw requests to accelerate project funding.
 
-### [🏢 NextRes Commercial](https://commercial.nextres.com/)
+### [🏢 Nextres Commercial](https://commercial.nextres.com/)
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -109,7 +109,7 @@ NextRes is a digital-first commercial real estate lending platform that provides
 ![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat-square&logo=hubspot)  
 NextRes Commercial is a no-nonsense, fully digital commercial real estate platform offering streamlined online loan applications—with same-day approvals, 24/7 support, and a flat $99/month pricing model.
 
-### [📊 FinResi](https://www.finresi.com/)
+### [📊 Finresi, Inc](https://www.finresi.com/)
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
