@@ -141,7 +141,7 @@ RTLTrader provides real-time interest rate and pricing insights for real estate 
 - 📖 Reading tech blogs and learning new frameworks
 - 💬 Collaborating on open-source and remote teams
   
-## 📫 Get in Touch
+<!-- ## 📫 Get in Touch
 
 - 📧 **Email:** jtong@nexys.com  
 - 📱 **Telegram:** [t.me/OmniPeace](https://t.me/OmniPeace)
